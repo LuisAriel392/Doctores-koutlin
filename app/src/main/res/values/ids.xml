@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="specialtyTextView" type="id" />
+    <item name="availabilityTextView" type="id" />
+    <item name="doctorNameTextView" type="id" />
+    <item name="doctorSpecialtyTextView" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="appointmentDateTextView" type="id" />
+    <item name="confirmButton" type="id" />
+</resources>
